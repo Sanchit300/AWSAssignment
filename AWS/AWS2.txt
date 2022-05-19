@@ -1,0 +1,75 @@
+Script started on Fri May 20 03:28:19 2022
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sanchits-MacBook-Air.local/Users/sanchitbhatia/desktop/AWS[0m[27m[24m[Jsanchitbhatia@Sanchits-MacBook-Air AWS % [K[?2004haawa  wwhoami[?2004l
+sanchitbhatia
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sanchits-MacBook-Air.local/Users/sanchitbhatia/desktop/AWS[0m[27m[24m[Jsanchitbhatia@Sanchits-MacBook-Air AWS % [K[?2004hcchmod 400 MylinuxKey.pem[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sanchits-MacBook-Air.local/Users/sanchitbhatia/desktop/AWS[0m[27m[24m[Jsanchitbhatia@Sanchits-MacBook-Air AWS % [K[?2004hsssh -i MylinuxKey.pem ec2-user@[7m34.233.1[7m3[7m4.3[27m[K[A[68C[27m3[27m4[27m.[27m2[27m3[27m3[27m.[27m13[27m4[27m.[27m3[?2004l
+ec2-user@34.233.134.3: Permission denied (publickey,gssapi-keyex,gssapi-with-mic).
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sanchits-MacBook-Air.local/Users/sanchitbhatia/desktop/AWS[0m[27m[24m[Jsanchitbhatia@Sanchits-MacBook-Air AWS % [K[?2004h[7mssh -i "MyLinuxKey.pem" ec2-user@ec2-34[7m-[7m233-134-3.compute-1.amazonaws.com[27m[K[A[7C[27ms[27ms[27mh[27m [27m-[27mi[27m [27m"[27mM[27my[27mL[27mi[27mn[27mu[27mx[27mK[27me[27my[27m.[27mp[27me[27mm[27m"[27m [27me[27mc[27m2[27m-[27mu[27ms[27me[27mr[27m@[27me[27mc[27m2[27m-[27m3[27m4-[27m2[27m3[27m3[27m-[27m1[27m3[27m4[27m-[27m3[27m.[27mc[27mo[27mm[27mp[27mu[27mt[27me[27m-[27m1[27m.[27ma[27mm[27ma[27mz[27mo[27mn[27ma[27mw[27ms[27m.[27mc[27mo[27mm[?2004l
+The authenticity of host 'ec2-34-233-134-3.compute-1.amazonaws.com (34.233.134.3)' can't be established.
+ED25519 key fingerprint is SHA256:3y38LuGxEpZbwdb8Wavs2dmr2PyhJRmA9OSqW7pFIb0.
+This host key is known by the following other names/addresses:
+    ~/.ssh/known_hosts:4: 34.233.134.3
+Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+Warning: Permanently added 'ec2-34-233-134-3.compute-1.amazonaws.com' (ED25519) to the list of known hosts.
+ec2-user@ec2-34-233-134-3.compute-1.amazonaws.com: Permission denied (publickey,gssapi-keyex,gssapi-with-mic).
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sanchits-MacBook-Air.local/Users/sanchitbhatia/desktop/AWS[0m[27m[24m[Jsanchitbhatia@Sanchits-MacBook-Air AWS % [K[?2004hccat  c  lls[?2004l
+AWS.txt		AWS2.txt	MylinuxKey.pem	Sum.java
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sanchits-MacBook-Air.local/Users/sanchitbhatia/desktop/AWS[0m[27m[24m[Jsanchitbhatia@Sanchits-MacBook-Air AWS % [K[?2004hccat AWS.txt[?2004l
+Script started on Fri May 20 02:51:07 2022
+[1m[7m%[27m[1m[0m                                                                                                 ]7;file://Sanchits-MacBook-Air.local/Users/sanchitbhatia/desktop/AWS[0m[27m[24m[Jsanchitbhatia@Sanchits-MacBook-Air AWS % [K[?2004h[7mchmod 400 MylinuxKey.pem[27m[24D[27mc[27mh[27mm[27mo[27md[27m [27m4[27m0[27m0[27m [27mM[27my[27ml[27mi[27mn[27mu[27mx[27mK[27me[27my[27m.[27mp[27me[27mm[?2004l
+chmod: MylinuxKey.pem: No such file or directory
+[1m[7m%[27m[1m[0m                                                                                                 ]7;file://Sanchits-MacBook-Air.local/Users/sanchitbhatia/desktop/AWS[0m[27m[24m[Jsanchitbhatia@Sanchits-MacBook-Air AWS % [K[?2004hccd aws[?2004l
+cd: no such file or directory: aws
+[1m[7m%[27m[1m[0m                                                                                                 ]7;file://Sanchits-MacBook-Air.local/Users/sanchitbhatia/desktop/AWS[0m[27m[24m[Jsanchitbhatia@Sanchits-MacBook-Air AWS % [K[?2004hccd AWS[?2004l
+cd: no such file or directory: AWS
+[1m[7m%[27m[1m[0m                                                                                                 ]7;file://Sanchits-MacBook-Air.local/Users/sanchitbhatia/desktop/AWS[0m[27m[24m[Jsanchitbhatia@Sanchits-MacBook-Air AWS % [K[?2004h[7mchmod 400 MylinuxKey.pem[27m[24D[27mc[27mh[27mm[27mo[27md[27m [27m4[27m0[27m0[27m [27mM[27my[27ml[27mi[27mn[27mu[27mx[27mK[27me[27my[27m.[27mp[27me[27mm[?2004l
+chmod: MylinuxKey.pem: No such file or directory
+[1m[7m%[27m[1m[0m                                                                                                 ]7;file://Sanchits-MacBook-Air.local/Users/sanchitbhatia/desktop/AWS[0m[27m[24m[Jsanchitbhatia@Sanchits-MacBook-Air AWS % [K[?2004hccd -[?2004l
+~/desktop/AWS
+[1m[7m%[27m[1m[0m                                                                                                 ]7;file://Sanchits-MacBook-Air.local/Users/sanchitbhatia/desktop/AWS[0m[27m[24m[Jsanchitbhatia@Sanchits-MacBook-Air AWS % [K[?2004hccd downloads[?2004l
+cd: no such file or directory: downloads
+[1m[7m%[27m[1m[0m                                                                                                 ]7;file://Sanchits-MacBook-Air.local/Users/sanchitbhatia/desktop/AWS[0m[27m[24m[Jsanchitbhatia@Sanchits-MacBook-Air AWS % [K[?2004hccd desktop[?2004l
+cd: no such file or directory: desktop
+[1m[7m%[27m[1m[0m                                                                                                 ]7;file://Sanchits-MacBook-Air.local/Users/sanchitbhatia/desktop/AWS[0m[27m[24m[Jsanchitbhatia@Sanchits-MacBook-Air AWS % [K[?2004hccd -[?2004l
+~/desktop/AWS
+[1m[7m%[27m[1m[0m                                                                                                 ]7;file://Sanchits-MacBook-Air.local/Users/sanchitbhatia/desktop/AWS[0m[27m[24m[Jsanchitbhatia@Sanchits-MacBook-Air AWS % [K[?2004hccd -[?2004l
+~/desktop/AWS
+[1m[7m%[27m[1m[0m                                                                                                 ]7;file://Sanchits-MacBook-Air.local/Users/sanchitbhatia/desktop/AWS[0m[27m[24m[Jsanchitbhatia@Sanchits-MacBook-Air AWS % [K[?2004hccd c  lls[?2004l
+AWS.txt			MyLinuxKey (1).pem	Sum.java
+[1m[7m%[27m[1m[0m                                                                                                 ]7;file://Sanchits-MacBook-Air.local/Users/sanchitbhatia/desktop/AWS[0m[27m[24m[Jsanchitbhatia@Sanchits-MacBook-Air AWS % [K[?2004h[7m/Users/sanchitbhatia/Downloads/MylinuxKey.pem [27m[46D[27m/[27mU[27ms[27me[27mr[27ms[27m/[27ms[27ma[27mn[27mc[27mh[27mi[27mt[27mb[27mh[27ma[27mt[27mi[27ma[27m/[27mD[27mo[27mw[27mn[27ml[27mo[27ma[27md[27ms[27m/[27mM[27my[27ml[27mi[27mn[27mu[27mx[27mK[27me[27my[27m.[27mp[27me[27mm[27m                                            /  [7mchmod 400 MylinuxKey.pem[27m[24D[27mc[27mh[27mm[27mo[27md[27m [27m4[27m0[27m0[27m [27mM[27my[27ml[27mi[27mn[27mu[27mx[27mK[27me[27my[27m.[27mp[27me[27mm[?2004l
+[1m[7m%[27m[1m[0m                                                                                                 ]7;file://Sanchits-MacBook-Air.local/Users/sanchitbhatia/desktop/AWS[0m[27m[24m[Jsanchitbhatia@Sanchits-MacBook-Air AWS % [K[?2004h[7mssh -i MyLinuxKey.pem ec2-user@3.90.202.181[27m[43D[27ms[27ms[27mh[27m [27m-[27mi[27m [27mM[27my[27mL[27mi[27mn[27mu[27mx[27mK[27me[27my[27m.[27mp[27me[27mm[27m [27me[27mc[27m2[27m-[27mu[27ms[27me[27mr[27m@[27m3[27m.[27m9[27m0[27m.[27m2[27m0[27m2[27m.[27m1[27m8[27m1[?2004l
+Last login: Thu May 19 21:09:33 2022 from ec2-18-206-107-24.compute-1.amazonaws.com
+
+       __|  __|_  )
+       _|  (     /   Amazon Linux 2 AMI
+      ___|\___|___|
+
+https://aws.amazon.com/amazon-linux-2/
+2 package(s) needed for security, out of 5 available
+Run "sudo yum update" to apply all updates.
+-bash: warning: setlocale: LC_CTYPE: cannot change locale (UTF-8): No such file or directory
+]0;ec2-user@ip-172-31-22-68:~[?1034h[ec2-user@ip-172-31-22-68 ~]$ sudo su
+]0;root@ip-172-31-22-68:/home/ec2-user[?1034h[root@ip-172-31-22-68 ec2-user]# whoami
+root
+]0;root@ip-172-31-22-68:/home/ec2-user[root@ip-172-31-22-68 ec2-user]# yum install -y httpd.x86_64
+Failed to set locale, defaulting to C
+Loaded plugins: extras_suggestions, langpacks, priorities, update-motd
+amzn2-core                                                                | 3.7 kB  00:00:00     
+Package httpd-2.4.53-1.amzn2.x86_64 already installed and latest version
+Nothing to do
+]0;root@ip-172-31-22-68:/home/ec2-user[root@ip-172-31-22-68 ec2-user]# exit
+exit
+]0;ec2-user@ip-172-31-22-68:~[ec2-user@ip-172-31-22-68 ~]$ clear
+[3J[H[2J]0;ec2-user@ip-172-31-22-68:~[ec2-user@ip-172-31-22-68 ~]$ cd AWS
+-bash: cd: AWS: No such file or directory
+]0;ec2-user@ip-172-31-22-68:~[ec2-user@ip-172-31-22-68 ~]$ cd -
+-bash: cd: OLDPWD not set
+]0;ec2-user@ip-172-31-22-68:~[ec2-user@ip-172-31-22-68 ~]$ ls
+]0;ec2-user@ip-172-31-22-68:~[ec2-user@ip-172-31-22-68 ~]$ cd [1m[7m%[27m[1m[0m                                                                                ]7;file://Sanchits-MacBook-Air.local/Users/sanchitbhatia/desktop/AWS[0m[27m[24m[Jsanchitbhatia@Sanchits-MacBook-Air AWS % [K[?2004heexit[?2004l
+
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+
+Script done on Fri May 20 03:30:56 2022
