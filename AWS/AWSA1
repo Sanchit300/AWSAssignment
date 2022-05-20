@@ -1,0 +1,26 @@
+Script started on Fri May 20 14:20:50 2022
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sanchits-MacBook-Air.local/Users/sanchitbhatia/desktop[0m[27m[24m[Jsanchitbhatia@Sanchits-MacBook-Air desktop % [K[?2004hccd AWS[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sanchits-MacBook-Air.local/Users/sanchitbhatia/desktop/AWS[0m[27m[24m[Jsanchitbhatia@Sanchits-MacBook-Air AWS % [K[?2004hcchmod 400 MylinuxKey.pem[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sanchits-MacBook-Air.local/Users/sanchitbhatia/desktop/AWS[0m[27m[24m[Jsanchitbhatia@Sanchits-MacBook-Air AWS % [K[?2004hsssh -i MylinuxKey.pem ec2-user@[7m3.90.202[7m.[7m181[27m[K[A[68C[27m3[27m.[27m9[27m0[27m.[27m2[27m0[27m2.[27m1[27m8[27m1[?2004l
+Last login: Thu May 19 21:26:27 2022 from 106.215.174.216
+
+       __|  __|_  )
+       _|  (     /   Amazon Linux 2 AMI
+      ___|\___|___|
+
+https://aws.amazon.com/amazon-linux-2/
+2 package(s) needed for security, out of 5 available
+Run "sudo yum update" to apply all updates.
+-bash: warning: setlocale: LC_CTYPE: cannot change locale (UTF-8): No such file or directory
+]0;ec2-user@ip-172-31-22-68:~[?1034h[ec2-user@ip-172-31-22-68 ~]$ sudo su
+]0;root@ip-172-31-22-68:/home/ec2-user[?1034h[root@ip-172-31-22-68 ec2-user]# yum install -y httpd.x86_64
+Failed to set locale, defaulting to C
+Loaded plugins: extras_suggestions, langpacks, priorities, update-motd
+amzn2-core                                               | 3.7 kB     00:00     
+amzn2extra-docker                                        | 3.0 kB     00:00     
+amzn2extra-kernel-5.10                                   | 3.0 kB     00:00     
+Package httpd-2.4.53-1.amzn2.x86_64 already installed and latest version
+Nothing to do
+]0;root@ip-172-31-22-68:/home/ec2-user[root@ip-172-31-22-68 ec2-user]# exit
+exit
+]0;ec2-user@ip-172-31-22-68:~[ec2-user@ip-172-31-22-68 ~]$ 
